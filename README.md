@@ -17,7 +17,8 @@ web scraping and cloud computing.
 - Bootstrap 
 
 ### A Fun fact about me: 
-- I dabble in all fields of software development such as AI/ML and Data analysis 
+- I dabble in all fields of software development such as
+_ AI/ML, Data analysis and desktop applications development 
 
 - 🌱 I’m currently learning api development with a python web framework called fastapi
 
