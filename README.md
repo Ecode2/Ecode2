@@ -1,26 +1,33 @@
 ## Hi there 👋
 
-My nameis5 Abubakar Alaya, i go by the alias Ecode
+My nameis Abubakar Alaya, I go by the alias Ecode
 
 I am a software engineer but aren't we all  😄. My main focus
 is Fullstack web development 🖥️💻 and other web related fields like 
 web scraping and cloud computing.
 
-### My tech stack include
-- Python
-- Vanilla JavaScript
-- Html
-- Css
-- Django
-- Flask
-- Nodejs
-- Bootstrap 
+### My Skills 
+  ## Programming Languages
+    - Python
+    - Javascript
+    - Dart
+    - C# 
+  ## Frameworks and Markups
+    - Html
+    - Css
+    - Bootstrap
+    - FastApi
+    - Flask
+    - Nodejs
+    - Flutter
+    - Reactjs
 
 ### A Fun fact about me: 
 - I dabble in all fields of software development such as
 _ AI/ML, Data analysis and desktop applications development 
 
-- 🌱 I’m currently learning api development with a python web framework called fastapi
+- 🌱 I’m currently learning MOBILE app development with FLUTTTER
+- 🔭 I’m currently working on an E-commerce website
 
 ### 📫 How to reach me:
 
